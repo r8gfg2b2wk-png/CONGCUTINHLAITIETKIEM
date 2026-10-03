@@ -6,7 +6,7 @@ from dateutil.relativedelta import relativedelta
 
 # Cấu hình trang Streamlit
 st.set_page_config(
-    page_title="Công Cụ Tính Lãi Tiết Kiệm",
+    page_title="Công Cụ Tính Lãi Tiết Kiệm_Quỳnh Hoa",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
