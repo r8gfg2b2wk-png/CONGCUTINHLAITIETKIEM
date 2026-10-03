@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("IMG_4881.jpeg")
+st.image("IMG_2426.jpeg")
 import pandas as pd
 import datetime
 from dateutil.relativedelta import relativedelta
